@@ -1,0 +1,62 @@
+*{
+    margin: auto;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#main{
+    margin: auto 0;
+    background-color: #eeeeee;
+}
+
+#headerContainer{
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+#img-div{
+    text-align: center;
+    background-color: white;
+}
+
+#image{
+    max-width: 100%; /*RESPONSIVE IMAGE HERE */
+    height: auto; /*RESPONSIVE IMAGE HERE */
+}
+
+#listContainer{
+    margin: auto;
+    max-width: 560px;
+    padding: 10px;
+}
+
+#quoteContainer{
+    text-align: center;
+    padding: 5px 0;
+}
+
+#cite{
+    position: relative;
+    top: 10px;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 0;
+}
+
+li{
+    padding: 5px;
+}
+
+h1{
+    color: rgb(44, 43, 43);
+}
+
+h2{
+    position: relative;
+    left: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
